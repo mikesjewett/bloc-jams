@@ -11,9 +11,12 @@ body {
 body.landing {
   background: #5b5579; }
 
+body.landing .navbar {
+  margin-bottom: 0; }
+
 .hero-content {
   background: #2f1d57;
-  padding: 100px; }
+  padding: 100px 0; }
 
 .hero-content h1 {
   font-size: 70px;
@@ -21,7 +24,7 @@ body.landing {
   font-weight: 300; }
 
 .selling-points {
-  padding: 100px; }
+  padding: 100px 0; }
 
 .selling-points .point {
   width: 32%;
@@ -37,11 +40,6 @@ body.landing {
 
 .selling-points .point p {
   font-size: 14px; }
-
-.nav-bar {
-  background: #2c1231;
-  height: 90px;
-  padding: 0 100px; }
 
 
 /*# sourceMappingURL=app.css.map*/
