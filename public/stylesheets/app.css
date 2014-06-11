@@ -14,6 +14,10 @@ body.landing {
 body.landing .navbar {
   margin-bottom: 0; }
 
+/* medium-purple: #7B46A3 - 123, 70, 163 */
+.player-header-nav {
+  background-color: rgba(123, 70, 163, 0.9); }
+
 .hero-content {
   background: #2f1d57;
   padding: 100px 0; }
