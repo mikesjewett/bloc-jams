@@ -140,7 +140,6 @@ var createSongRow = function(songNumber, songName, songLength) {
      if (songNumber !== currentlyPlayingSong) {
        songNumberCell.html('<a class="album-song-button"><i class="fa fa-play"></i></a>');
      }
-     songNumberCell.html('<a class="album-song-button"><i class="fa fa-play"></i></a>');
    };
 
    var offHover = function(event) {
